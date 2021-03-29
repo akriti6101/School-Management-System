@@ -1,0 +1,177 @@
+/*home.html*/
+.outer
+{
+	position:absolute;
+	top:50px;
+	left:150px;
+	width:400px;
+	height:300px;
+	box-shadow:5px 10px black;
+}
+.inner
+{
+
+	position:absolute;
+	top:100px;
+	left:70px;
+	width:200px;
+	height:40px;
+
+}
+.btn1
+{
+	position:absolute;
+	top:110px;
+	left:130px;
+	width:100px;
+	height:40px;
+
+	background-color:blue;
+}
+.btn2
+{
+	position:absolute;
+	top:110px;
+	left:200px;
+	width:100px;
+	height:40px;
+
+	background-color:red;
+	margin-left:70px;
+}
+
+/*student-login*/
+
+
+b
+{
+	color:white;
+	font-family:cursive;
+}
+.s_out
+{
+		position:absolute;
+	top:50px;
+	left:240px;
+	width:400px;
+	height:400px;
+	background-color:#310b0b;
+	border-color:white;
+	border-style:double;
+	border-radius:16px;
+}
+
+.name,.id
+{position:absolute;
+left:80px;
+	width:250px;
+	height:30px;
+
+	text-align:center;
+	border-radius:20px;
+	
+}
+
+a
+{
+	color:white;
+}
+.one,.two,.three,.four,.five,.six
+{
+	 position:absolute;
+	left:200px;
+	height:20px;
+	margin-left:40px;
+	border-radius:16px;
+	border-color:black;
+	width:200px;text-align:center;
+	
+}
+
+.btn3
+{
+	position:absolute;
+	top:100px;
+	left:145px;
+	width:100px;
+	height:25px;
+	border:32px;
+	background-color:green;
+}
+.s_register
+{
+		position:absolute;
+	top:220px;
+	left:170px;
+	width:500px;
+	color:white;
+	height:800px;
+}
+.s_login
+{
+		position:absolute;
+	top:90px;
+	left:20px;
+	width:400px;
+	height:250px;
+}
+
+h4
+{
+		 position:absolute;
+	 top:15px;
+	 left:100px;
+	color:yellow;
+	font-family:cursive;
+
+}
+
+
+
+/*student-register*/
+
+.list
+{
+	width:700px;
+	
+}
+
+
+.std_reg_outer
+{
+	position:absolute;
+	top:20px;
+	left:80px;
+	font-size:15px;
+     color:white;
+     font-family:cursive;
+	width:800px;
+	height:550px;
+	background-color:#025955;
+}
+.std_reg_inner
+{position:absolute;
+	top:10px;
+	left:40px;
+}
+.register_btn
+{position:absolute;
+	background-color:green;
+	height:30px;
+	width:100px;
+	border-color:white;
+	boreder-width:3px;
+	left:270px;
+}
+th
+{
+	width:200px;
+	background-color:#1e212d;
+	font-family:cursive;
+	color:white;}
+	td{
+	width:200px;
+	height:40px;
+	background-color:#b68973;
+	font-family:cursive;
+}
